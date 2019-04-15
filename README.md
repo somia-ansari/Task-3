@@ -2,6 +2,6 @@
 Wikipedia search page of Technology
 
 
-Published at:
+Published at:https://somia-ansari.github.io/Task-3/
 
 Moke-up: https://en.wikipedia.org/wiki/Technology
